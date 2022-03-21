@@ -1,2 +1,5 @@
 # Quantum Mechanics
 
+$$
+\alpha
+$$
